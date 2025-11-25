@@ -2,13 +2,37 @@
   {
     "id": "variables",
     "title": "Variables",
-    "summary": "Variables store values in memory so you can reuse them later. They act as containers that hold data such as numbers, text, or boolean values. A variable has a name and a value.",
-    "sample_question": "What is a variable and why is it useful in programming?"
+    "summary": "Variables are named memory references used to store values such as numbers, text, or objects. They act as identifiers that allow programs to reuse and manipulate data. A variable always has a name, a value, and a data type, which determines what kind of data it can hold.",
+    "sample_question": "What is a variable, and how does its data type affect how it behaves in a program?"
+  },
+  {
+    "id": "data_types",
+    "title": "Data Types",
+    "summary": "Data types specify the kind of values a variable can store, such as integers, floating-point numbers, strings, booleans, or complex custom structures. Strong typing helps prevent logical errors by enforcing how values can interact.",
+    "sample_question": "Why are data types important, and what problems can occur if a program mixes incompatible data types?"
+  },
+  {
+    "id": "conditionals",
+    "title": "Conditionals",
+    "summary": "Conditionals allow a program to make decisions by executing different blocks of code depending on whether a condition is true or false. They include if, else-if, and else statements, enabling branching logic.",
+    "sample_question": "How does an 'if-else' statement help control the flow of a program? Give an example."
   },
   {
     "id": "loops",
     "title": "Loops",
-    "summary": "Loops allow you to repeat a block of code multiple times. A 'for' loop is used when the number of iterations is known, while a 'while' loop runs until a condition becomes false.",
-    "sample_question": "Explain the difference between a for loop and a while loop with an example."
+    "summary": "Loops are used to repeat code multiple times. A 'for' loop is ideal when the number of iterations is known in advance, while a 'while' loop continues running until a condition becomes false. Loops help automate repetitive tasks efficiently.",
+    "sample_question": "Explain the difference between a for loop and a while loop. When would you prefer one over the other?"
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "Functions are reusable blocks of code designed to perform specific tasks. They improve organization, avoid duplication, and enable modular programming. A function can accept inputs (parameters) and return outputs.",
+    "sample_question": "Why are functions useful in programming, and how do parameters improve flexibility?"
+  },
+  {
+    "id": "oop",
+    "title": "Object-Oriented Programming",
+    "summary": "Object-Oriented Programming (OOP) organizes code into objects that contain data (attributes) and behaviors (methods). Key concepts include classes, objects, inheritance, polymorphism, and encapsulation. OOP enables modular, extensible, and scalable software.",
+    "sample_question": "What are classes and objects? How does OOP help in building larger and more maintainable applications?"
   }
 ]
