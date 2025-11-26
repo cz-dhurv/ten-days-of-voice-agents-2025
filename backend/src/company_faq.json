@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What does SkyFlow CRM do?",
+    "answer": "SkyFlow CRM is a sales CRM and outreach automation platform built for Indian startups and SMBs. It helps teams manage leads, track sales pipelines, automate follow-ups over email/WhatsApp, and get clear revenue forecasts."
+  },
+  {
+    "question": "Who is SkyFlow CRM for?",
+    "answer": "SkyFlow CRM is designed for B2B startups, SaaS companies, agencies, and fast-growing SMBs that need a simple but powerful sales CRM without enterprise complexity."
+  },
+  {
+    "question": "Do you have a free tier?",
+    "answer": "Yes, SkyFlow CRM offers a free tier for up to 3 users with core CRM features like lead management, basic pipeline tracking, and email logging."
+  },
+  {
+    "question": "What are your paid plans?",
+    "answer": "Paid plans start with the Growth plan at ₹1,499 per user per month, which adds advanced reporting, automation workflows, and WhatsApp integration. The Scale plan adds multi-team support and priority success."
+  },
+  {
+    "question": "Do you integrate with tools like WhatsApp and Gmail?",
+    "answer": "Yes, SkyFlow CRM integrates with Gmail, Outlook, and WhatsApp Business API so your sales team can track conversations and automate follow-ups from one place."
+  },
+  {
+    "question": "Do you offer support and onboarding?",
+    "answer": "We offer live chat support, email support, and guided onboarding for all paid plans. Larger teams get a dedicated customer success manager."
+  }
+]
